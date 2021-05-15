@@ -1,0 +1,15 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-practicegrafqlawsamp-env-191401-authRole",
+            "UnauthRoleArn": "arn:aws:iam::234754225995:role/amplify-practicegrafqlawsamp-env-191401-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::234754225995:role/amplify-practicegrafqlawsamp-env-191401-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-practicegrafqlawsamp-env-191401-deployment",
+            "UnauthRoleName": "amplify-practicegrafqlawsamp-env-191401-unauthRole",
+            "StackName": "amplify-practicegrafqlawsamp-env-191401",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:234754225995:stack/amplify-practicegrafqlawsamp-env-191401/46d66740-b566-11eb-a092-0e414c8e3d4f",
+            "AmplifyAppId": "dtggw88mmuvcr"
+        }
+    }
+}
